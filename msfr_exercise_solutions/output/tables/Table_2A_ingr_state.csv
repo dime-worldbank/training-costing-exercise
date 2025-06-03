@@ -1,0 +1,8 @@
+funder,ingredient,quantity,unit,monthly_price,monthly_cost,cost_per_child_per_month,annual_price,total_cost_per_year,cost_per_child_per_year
+STATE,State officials,300,PTE,7.0833001,2125,.3542,85,25500,4.2504
+STATE,Learning materials,18000,Bundle,.28929999,5207.100100000001,.8679,3.4714,62486,10.4148
+STATE,Trainings,9000,Person*Course*Day,.33329999,3000,.5,4,36000,6
+STATE,Home visitors,1500,PTE,4.7385998,7107.8379,1.1846,56.862701,85294,14.2152
+STATE,Food,6000,Beneficiary,.51700002,3101.8501,.517,6.2037001,37222,6.204000000000001
+STATE,"Lodging, transport, facilities",9000,Person*Course*Day,.1274,1146.2999,.1911,1.5283999,13756,2.2932
+,Total,,,,21688.088,3.6148,,260258,43.3776
