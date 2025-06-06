@@ -6,6 +6,7 @@ Files for the exercise on cost data collection and cost analysis, originally use
 3. Locate the file on your computer.
 4. Double-click to open it in your browser — or
 5. Right-click, choose "Open with," and select your preferred web browser. For best results, we recommend Google Chrome.
+6. This exercise is self-paced and takes approximately 30 minutes (cost data collection), with an optional technical task that takes 30-45 minutes (cost analysis).
 <br><br>
 
 **Solutions:**
