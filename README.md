@@ -1,5 +1,5 @@
 # Training Costing Exercise
-Files for the exercise on cost data collection and cost analysis, originally used for the training Managing Successful Field Research 2025. 
+Files for the exercise on cost data collection and cost analysis, used for the Managing Successful Field Research masterclass series. 
 <br><br>
 **Instructions:**
 1. Download the file with a .html extension ([MSFR_Costing_Exercise.html](MSFR_Costing_Exercise.html)).
